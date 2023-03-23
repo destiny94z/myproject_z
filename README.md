@@ -12,7 +12,7 @@ By ZhiWeng Zhang
 
 ### Introduction
 
-This repository contains the original models (ResNet-50, ResNet-101, and ResNet-152) described in the paper "Deep Residual Learning for Image Recognition" (http://arxiv.org/abs/1512.03385). These models are those used in [ILSVRC] (http://image-net.org/challenges/LSVRC/2015/) and [COCO](http://mscoco.org/dataset/#detections-challenge2015) 2015 competitions, which won the 1st places in: ImageNet classification, ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation.
+This repository contains the original models (ResNet-50, ResNet-101, and ResNet-152) described in the paper "Deep Residual Learning for Image Recognition" . These models are those used in [ILSVRC]  and [COCO] 2015 competitions, which won the 1st places in: ImageNet classification, ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation.
 
 **Note**
 
@@ -24,7 +24,7 @@ This repository contains the original models (ResNet-50, ResNet-101, and ResNet-
 If you use these models in your research, please cite:
 
 	@article{He2015,
-		author = {Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+		author = {ZhiWeng Zhang},
 		title = {Deep Residual Learning for Image Recognition},
 		journal = {arXiv preprint arXiv:1512.03385},
 		year = {2015}
